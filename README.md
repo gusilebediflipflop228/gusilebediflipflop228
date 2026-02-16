@@ -25,10 +25,13 @@
 
 
 ### :fire: My Stats :
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gusilebediflipflop228&theme=dark" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusilebediflipflop228&layout=compact&theme=vision-friendly-dark" alt="Top Langs">
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gusilebediflipflop228&theme=dark">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusilebediflipflop228&layout=compact&theme=vision-friendly-dark">
+</p>
 <!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gusilebediflipflop228&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gusilebediflipflop228&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
