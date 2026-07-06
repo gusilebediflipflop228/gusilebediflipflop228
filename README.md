@@ -11,7 +11,7 @@
 
  ### :hammer_and_wrench: Technologies and Tools
  
-**Backend:** Java (17/21), Spring Boot (MVC, Data JPA, Security), Hibernate, Node.js (Express), JUnit 5, Mockito, Kafka.
+**Backend:** Java 17+, Spring Boot (MVC, Data JPA, Security), Hibernate, Node.js (Express), JUnit 5, Mockito, Kafka.
 
 **Frontend:** HTML5, CSS3, JS (ES6+), React, Next.js.
 
