@@ -9,7 +9,8 @@
   Feel like you're at home.
 </h1>
 
- ### :hammer_and_wrench: **Backend:** Java (17/21), Spring Boot (MVC, Data JPA, Security), Hibernate, Node.js (Express), JUnit 5, Mockito, Kafka.
+ ### :hammer_and_wrench: 
+**Backend:** Java (17/21), Spring Boot (MVC, Data JPA, Security), Hibernate, Node.js (Express), JUnit 5, Mockito, Kafka.
 **Frontend:** HTML5, CSS3, JS (ES6+), React, Next.js.
 **Databases:** PostgreSQL, MySQL.
 **DevTools:** Git, Maven, Gradle, Postman, Liquibase, Flyway, Docker, Swagger.
