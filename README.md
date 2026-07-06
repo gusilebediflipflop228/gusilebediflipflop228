@@ -9,7 +9,10 @@
   Feel like you're at home.
 </h1>
 
- ### :hammer_and_wrench: Languages and Tools :
+ ### :hammer_and_wrench: **Backend:** Java (17/21), Spring Boot (MVC, Data JPA, Security), Hibernate, Node.js (Express), JUnit 5, Mockito, Kafka.
+**Frontend:** HTML5, CSS3, JS (ES6+), React, Next.js.
+**Databases:** PostgreSQL, MySQL.
+**DevTools:** Git, Maven, Gradle, Postman, Liquibase, Flyway, Docker, Swagger.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" height="40"/>&nbsp;
