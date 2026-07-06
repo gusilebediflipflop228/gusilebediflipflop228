@@ -41,8 +41,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/jetbrains/jetbrains-original.svg" title="JetBrains" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/liquibase.svg" title="Liquibase" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.worldvectorlogo.com/logos/flyway.svg" title="Flyway" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/liquibase/liquibase-original.svg" title="Liquibase" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.simpleicons.org/flyway/242938/white" title="Flyway" width="40" height="40"/>&nbsp;
 </div>
 
 
