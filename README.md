@@ -4,9 +4,7 @@
 <img src="https://komarev.com/ghpvc/?username=gusilebediflipflop228&style=flat-square&color=blue" alt=""/>
  <h1>
    <img src= "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Hey there,
-  You are welcome,
-  Feel like you're at home.
+  Hey there, welcome to my GitHub!
 </h1>
 
  ### :hammer_and_wrench: Technologies and Tools
