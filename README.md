@@ -5,11 +5,13 @@
  <h1>
    <img src= "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Hey there, welcome to my GitHub!
-
- I'm a **Backend Developer Intern at Yandex Cloud**.
-I work mainly with **Java and Kotlin**, building backend services
-with **Spring and Ktor**.
 </h1>
+  
+<p align="center">
+  <b>I'm a **Backend Developer Intern at Yandex Cloud**.
+I work mainly with **Java and Kotlin**, building backend services
+with **Spring and Ktor**.</b>
+</p>
 
  ### :hammer_and_wrench: Technologies and Tools
 
