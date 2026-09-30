@@ -36,26 +36,18 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" title="Kotlin" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="Java" title="Java" width="40" height="40"/>
 
-  <br><br>
-
   <!-- Backend: Ktor, Spring Boot, Hibernate, Kafka -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ktor/ktor-original.svg" alt="Ktor" title="Ktor" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" title="Spring Boot" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" alt="Hibernate" title="Hibernate" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" alt="Kafka" title="Kafka" width="40" height="40"/>
 
-  <br><br>
-
   <!-- Testing: JUnit -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" alt="JUnit" title="JUnit" width="40" height="40"/>
-
-  <br><br>
 
   <!-- Databases: PostgreSQL, MySQL -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
-
-  <br><br>
 
   <!-- Tools: Git, Maven, Gradle, Postman, Flyway, Rancher -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" title="Git" width="40" height="40"/>&nbsp;
