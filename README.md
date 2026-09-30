@@ -20,9 +20,9 @@
 
 **Testing:** JUnit 5, Mockito.
 
-**Databases:** PostgreSQL, MySQL.
+**Databases:** PostgreSQL, MySQL, YDB.
 
-**Tools:** Git, Maven, Gradle, Postman, Flyway, Rancher.
+**Tools:** Git, Maven, Gradle, Postman, Flyway, Rancher, Terraform, Kubernetes.
 
 <details>
   <summary>Other technologies I've worked with</summary>
@@ -55,7 +55,8 @@
 <!-- Databases: PostgreSQL, MySQL -->
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="40" height="40"/> &nbsp;
+  <img src="https://storage.yandexcloud.net/ydb-site-assets/ydb_icon.svg" alt="YDB" title="YDB" width="130" height="40"/>
 </p>
 
 <!-- Tools: Git, Maven, Gradle, Postman, Flyway, Rancher -->
