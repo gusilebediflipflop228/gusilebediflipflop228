@@ -18,13 +18,19 @@
  
 **Backend:** Ktor, Spring Boot, Hibernate, Node.js (Express), Kafka.
 
-**Databases:** PostgreSQL, MySQL.
-
-**Frontend:** HTML5, CSS3, JS (ES6+), React.
+**Testing:** JUnit 5, Mockito.
 
 **Databases:** PostgreSQL, MySQL.
 
-**Tools:** Git, Maven, Gradle, Postman, Liquibase, Flyway, Docker, Swagger.
+**Tools:** Git, Maven, Gradle, Postman, Flyway, Rancher.
+
+<details>
+  <summary>Other technologies I've worked with</summary>
+  <br>
+  JavaScript, TypeScript, Node.js, Express, React, Next.js,
+  HTML, CSS, Postman, Swagger, Docker, Liquibase.
+</details>
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" width="40" height="40"/>&nbsp;
