@@ -7,10 +7,9 @@
   Hey there, welcome to my GitHub!
 </h1>
   
-<p align="center">
-  <b>I'm a Backend Developer Intern at Yandex Cloud.
-I work mainly with Java and Kotlin, building backend services
-with Spring and Ktor.</b>
+  <p align="center">
+  <b>Backend Developer Intern @ Yandex Cloud</b><br>
+  Building backend services with Java, Kotlin, Spring & Ktor.
 </p>
 
  ### :hammer_and_wrench: Technologies and Tools
