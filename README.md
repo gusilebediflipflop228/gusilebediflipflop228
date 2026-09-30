@@ -16,7 +16,7 @@
 
 **Languages:** Kotlin, Java
  
-**Backend:** Ktor, Spring Boot, Hibernate, Node.js (Express), Kafka.
+**Backend:** Ktor, Spring Boot, Hibernate, Kafka.
 
 **Testing:** JUnit 5, Mockito.
 
