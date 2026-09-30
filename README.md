@@ -8,7 +8,7 @@
 </h1>
   
 <p align="center">
-  <b>I'm a **Backend Developer Intern at Yandex Cloud**.
+  <b>I'm a Backend Developer Intern at Yandex Cloud.
 I work mainly with **Java and Kotlin**, building backend services
 with **Spring and Ktor**.</b>
 </p>
