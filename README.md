@@ -9,8 +9,8 @@
   
 <p align="center">
   <b>I'm a Backend Developer Intern at Yandex Cloud.
-I work mainly with **Java and Kotlin**, building backend services
-with **Spring and Ktor**.</b>
+I work mainly with Java and Kotlin, building backend services
+with Spring and Ktor.</b>
 </p>
 
  ### :hammer_and_wrench: Technologies and Tools
