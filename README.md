@@ -5,17 +5,25 @@
  <h1>
    <img src= "https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   Hey there, welcome to my GitHub!
+
+ I'm a **Backend Developer Intern at Yandex Cloud**.
+I work mainly with **Java and Kotlin**, building backend services
+with **Spring and Ktor**.
 </h1>
 
  ### :hammer_and_wrench: Technologies and Tools
- 
-**Backend:** Java 17+, Spring Boot (MVC, Data JPA, Security), Hibernate, Node.js (Express), JUnit 5, Mockito, Kafka.
 
-**Frontend:** HTML5, CSS3, JS (ES6+), React, Next.js.
+**Languages:** Kotlin, Java
+ 
+**Backend:** Ktor, Spring Boot, Hibernate, Node.js (Express), Kafka.
 
 **Databases:** PostgreSQL, MySQL.
 
-**DevTools:** Git, Maven, Gradle, Postman, Liquibase, Flyway, Docker, Swagger.
+**Frontend:** HTML5, CSS3, JS (ES6+), React.
+
+**Databases:** PostgreSQL, MySQL.
+
+**Tools:** Git, Maven, Gradle, Postman, Liquibase, Flyway, Docker, Swagger.
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" width="40" height="40"/>&nbsp;
